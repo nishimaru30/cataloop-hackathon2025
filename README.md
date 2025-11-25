@@ -7,14 +7,14 @@ pip install -r requirements.txt
 
 cataloop-hackathon2025/
 │
-├── README.md                           # Explanation of your approach
-├── requirements.txt                    # Dependencies
+├──README.md                           # Explanation of your approach
+├──requirements.txt                    # Dependencies
 │
-├── code/
-│   ├── olefin_descriptors.py         
+├──code/
+│   ├──olefin_descriptors.py         
 │   ├──hackathon_final.ipynb
 │
-├── results/
+├──results/
 │   ├── cv_results_yield_rf.csv        # Cross-validation results
 │   ├── cv_results_ee_rf.csv
 │   ├── feature_importance_yield_rf.csv
@@ -22,7 +22,7 @@ cataloop-hackathon2025/
 │   ├── rf_predictions_with_olefin_desc.png
 │   └── rf_ee_predictions.png
 │
-└── data/
+└──data/
     └── data_preprocessed.csv       
 
 ## Approach Summary
