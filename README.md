@@ -20,7 +20,7 @@ cataloop-hackathon2025/
 │ ├── rf_predictions_yield.png
 │ └── rf_predictions_ee.png
 └── data/
-└── data_preprocessed.csv
+  └── data_preprocessed.csv
 ```
 
 ## Approach Summary
