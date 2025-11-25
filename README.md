@@ -7,7 +7,7 @@ pip install -r requirements.txt
 
 cataloop-hackathon2025/
 │
-├──README.md                           # Explanation of your approach
+├──README.md                          
 ├──requirements.txt                    # Dependencies
 │
 ├──code/
