@@ -1,0 +1,8 @@
+rdkit
+drfp
+pandas
+numpy
+scikit-learn
+matplotlib
+tqdm
+joblib
