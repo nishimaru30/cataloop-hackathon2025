@@ -1,9 +1,8 @@
 # Asymmetric Dihydroxylation: Yield and Enantioselectivity Prediction  
 **Team:** David, Rania, Doug, Nishi  
 **Event:** CATALOOP Hackathon 2025  
-
-_work in progress_
 ---
+_work in progress_
 
 ## Project Structure
 ```
